@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+<h1>Advantage of ssd drive Laptops</h1>
+Advantages SSD generation has been round for decades, but it was delivered to the patron market solely a few years ago.
 
-You can use the [editor on GitHub](https://github.com/Srinubash/Laptop/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Solid nation drives have a everyday expand in recognition because of the fact 2012, and this frequently because of the reality that their price has been progressively losing too.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+So what are Solid State Drives and what benefits do they furnish over trendy drives? And most importantly, why have to you get a laptop laptop with an SSD? Find out extra below.
 
-### Markdown
+Speed
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Present day SSDs obtain sequential* read/compose velocities of 500MB/s normally. Progressively captivating sorts arrive at 1500MB/s and past.
 
-```markdown
-Syntax highlighted code block
+Contrast this with the small 100MB/s you could anticipate from a normal turning HDD.
 
-# Header 1
-## Header 2
-### Header 3
+With abnormal I/O* the detail that topics is considerably greater. This speed assessment is commonly observable at some stage in startup and shutdown, yet moreover even as opening information or stacking programs. Capacity is pretty often the bottleneck of apparent PC speed.
 
-- Bulleted
-- List
+Versatility
 
-1. Numbered
-2. List
+SSD Drive laptops<a href="https://www.osmreview.com/2020/02/best-ssd-laptops-in-india.html?m=1">SSD Drive laptops</a>
+ have no moving parts. Exemplary HDDs have lovely platters turning at 5000+RPM with a study/compose arm moving swiftly over the floor with just multiple nanometers between the pinnacle and the platter.
 
-**Bold** and _Italic_ and `Code` text
+This makes SSDs are notably extra versatile to stuns. Drop/shock your PC with an exemplary HDD and you're in a hard situation, SSD could be okay.
 
-[Link](url) and ![Image](src)
-```
+Strength/wellbeing
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+HDD life expectancy is resolved for the maximum segment by means of working time. SSD lifestyles expectancy is resolved for the maximum element through compose cycles.
 
-### Jekyll Themes
+In the match that you just examine from a SSD it will keep going forever. In a regular PC use situation, a SSD will outlive a turning force due to the fact you on the whole don't compose gigabytes of facts consistently.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Srinubash/Laptop/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
+
+
+ 
+
+
+
+
+
